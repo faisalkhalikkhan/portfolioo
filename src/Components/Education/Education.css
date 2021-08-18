@@ -1,0 +1,10 @@
+.education {
+  padding: 10px;
+  padding-top: 15px;
+  max-height: 100vh;
+  overflow-y: scroll;
+}
+
+.education__card {
+  margin-bottom: 15px;
+}

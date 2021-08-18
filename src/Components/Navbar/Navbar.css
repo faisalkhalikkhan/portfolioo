@@ -1,0 +1,34 @@
+.navbar {
+  display: flex;
+  width: 100%;
+  background-color: #213E3B;
+  color: #FFF;
+}
+
+.navbar__left {
+  display: flex;
+  flex: 0.3;
+  padding: 5px 15px;
+}
+
+.hero_name {
+  padding-left: 20px;
+  padding-top: 10px;
+  font-weight: 600;
+}
+.navbar__middle {
+  display: flex;
+  flex: 0.7;
+  justify-content: space-around;
+  padding-left: 25px;
+  padding-right: 25px;
+}
+/* 
+.nav__btn {
+  display: flex;
+} */
+
+.btn {
+  margin-top: 5px !important;
+  color: #fff !important;
+}

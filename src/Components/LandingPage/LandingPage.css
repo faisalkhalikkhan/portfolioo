@@ -1,0 +1,23 @@
+.landingPage {
+  height: 100vh;
+  text-align: center;
+  padding-top: 10%;
+  color: #213E3B;
+  
+}
+
+.landingPage__top {
+  margin-bottom: 45px;
+}
+
+.helloText {
+  font-weight: 800;
+}
+
+h1 {
+  font-weight: 900;
+}
+
+.landingPage__bottom {
+  margin-top: 150px;
+}

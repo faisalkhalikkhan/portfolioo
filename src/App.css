@@ -1,0 +1,29 @@
+.app {
+  background-color: #d1f6ff;
+}
+.main {
+  display: flex;
+  height: 100vh;
+}
+.app__left {
+  flex: 0.2;
+}
+
+.app__middle {
+  flex: 0.6;
+  padding-top: 5px;
+}
+.app__right {
+  flex: 0.2;
+  padding-top: 5px;
+}
+
+
+.card__animation {
+transition: transform 5s ease-out;
+color: #213E3B !important;
+}
+
+.card__animation:hover {
+transform: scale(1.03);
+}

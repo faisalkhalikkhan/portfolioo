@@ -1,0 +1,10 @@
+.sidebar {
+  /* background: #f4f4f4; */
+  margin-top: 1px;
+  height: 100vh;
+  padding: 20px;
+}
+.sidebar__card {
+  margin-bottom: 15px;
+  
+}

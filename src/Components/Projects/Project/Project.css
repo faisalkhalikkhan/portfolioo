@@ -1,0 +1,30 @@
+.project {
+  margin-bottom: 35px;
+}
+.card__color {
+  background: #213E3B !important;
+  color: #FFF !important;
+}
+
+.links__projects {
+  display: flex;
+  justify-content: space-between;
+}
+.description {
+  padding: 5px;
+  max-width: 500px;
+  color: #213E3B;
+}
+.description__text {
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: large;
+}
+
+.description__text__tech{
+  font-size: 14px;
+  font-weight: 500;
+}
+
+.git__btn {
+  color: #FFF !important;
+}
